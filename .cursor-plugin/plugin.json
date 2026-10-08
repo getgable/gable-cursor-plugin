@@ -1,0 +1,14 @@
+{
+  "name": "gable",
+  "displayName": "Gable",
+  "version": "1.0.0",
+  "description": "Run your listings, buyers, showings, offers and conditions in Gable, the transaction and seller-reporting workspace for Canadian listing agents.",
+  "author": {
+    "name": "Gable Technologies Inc.",
+    "email": "hello@getgable.ca"
+  },
+  "homepage": "https://getgable.ca",
+  "license": "MIT",
+  "keywords": ["gable", "getgable", "gable real estate", "gable listings"],
+  "logo": "assets/logo.svg"
+}

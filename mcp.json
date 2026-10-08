@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "gable": {
+      "url": "https://getgable.ca/api/mcp"
+    }
+  }
+}
